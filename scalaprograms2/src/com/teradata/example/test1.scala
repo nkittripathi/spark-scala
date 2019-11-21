@@ -30,7 +30,7 @@ object test1 {
        // header1.saveAsTextFile("./output/test1/")
         //header1.union(dedup).saveAsTextFile("./output/test1/")
       //  val fieldSplit = line.map(x=> (x.split(",").fi)
-        //val finalRes = head
+        
 
         
 				                    
