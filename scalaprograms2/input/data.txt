@@ -1,0 +1,5 @@
+city_name,population,year
+bhopal,20,2019
+bhopal,10,2018
+mumbai,2,2019
+mumbai,1,2018
