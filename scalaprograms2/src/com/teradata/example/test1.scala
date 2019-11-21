@@ -29,7 +29,7 @@ object test1 {
         //val header1 = sparkContext.parallelize(header)
        // header1.saveAsTextFile("./output/test1/")
         //header1.union(dedup).saveAsTextFile("./output/test1/")
-      //  val fieldSplit = line.map(x=> (x.split(",").fi)
+      //  val fieldSplit = line.map(x=> (x.split(",").find
         
 
         
